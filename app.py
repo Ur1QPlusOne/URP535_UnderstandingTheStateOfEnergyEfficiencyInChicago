@@ -66,7 +66,7 @@ def make_shape(geo):
 ###    ---------   WEBSITE SETUP   ---------    ###
 #    ------------------------------------------   #
 
-st.set_page_config(layout="wide", page_title="Dylan's URP 535 Final", page_icon="🏙️")
+st.set_page_config(layout="wide", page_title="Understanding the State of Energy Efficiency in Chicago", page_icon="🏙️")
 st.header("Understanding the State of Energy Efficiency in Chicago")
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Home", "Context", "Data Collection", "Ethical Considerations", "Data Visualization", "Findings"])
 
